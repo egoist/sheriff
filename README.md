@@ -3,7 +3,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/sheriff-cli.svg?style=flat)](https://npmjs.com/package/sheriff-cli) [![NPM downloads](https://img.shields.io/npm/dm/sheriff-cli.svg?style=flat)](https://npmjs.com/package/sheriff-cli)
 
-![preview](https://i.loli.net/2018/05/31/5b0ecb067f524.png)
+<img src="https://i.loli.net/2018/05/31/5b0ecb067f524.png" width="400" alt="preview" >
 
 ## Usage
 
