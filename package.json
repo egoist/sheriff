@@ -7,7 +7,10 @@
     "type": "git"
   },
   "main": "index.js",
-  "bin": "cli.js",
+  "bin": {
+    "sheriff-cli": "cli.js",
+    "sheriff": "cli.js"
+  },
   "files": [
     "index.js",
     "cli.js",
