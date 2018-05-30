@@ -3,7 +3,7 @@ const emojis = require('./emoji')
 const sheriff = (emoji, name) => {
   // const spaces = ' '.repeat([...emoji].filter(v => v === '').length)
   const spaces = ' '.repeat([...emoji].filter(v => v.charCodeAt(0) === 65039).length)
-  return `⠀ ⠀ ⠀     🤠
+  return `\n⠀ ⠀ ⠀     🤠
   　    ${emoji}${spaces}${emoji}${spaces}${emoji}
       ${emoji}${spaces}  ${emoji}　${spaces}${emoji}
      👇  ${emoji}${spaces}${emoji}${spaces} 👇
