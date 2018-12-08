@@ -1,5 +1,5 @@
 const fs = require('fs')
-// https://cdn.rawgit.com/iamcal/emoji-data/19299c91/emoji.json
+// https://cdn.jsdelivr.net/gh/iamcal/emoji-data@19299c91/emoji.json
 const source = require('./emoji-source')
 
 const emoji = source.map(e => ({
